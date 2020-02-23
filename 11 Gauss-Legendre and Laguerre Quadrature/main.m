@@ -1,4 +1,4 @@
-%main Lab 10
+%main
 clc, clear all;
 
 f1=@(x) x^3/(1-exp(-x));
